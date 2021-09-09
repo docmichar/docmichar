@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @docmichar or the redneckdentist
+- 👋 Hi, I’m @docmichar or the redneckdentist.
 I am recently, Sept 04, 2021 Windoze free!
 - 👀 I’m interested in Linux Audio,
 - 🌱 I’m currently learning DAW, Jack, etc
